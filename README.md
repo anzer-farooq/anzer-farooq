@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Anzer Farooq
 
-<!--
-**anzer-farooq/anzer-farooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student at College of Engineering Trivandrum  
+💻 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+- Building projects using **HTML, CSS, JS**  
+- Learning **Django** for backend  
+- Exploring **DSA** 
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** C · C++ · Java  
+**Frontend:** HTML · CSS · JavaScript (DOM)    
+**Database:** MySQL · SQLite  
+**Tools:** Git · GitHub · VS Code
+---
+
+### 📫 Contact
+- 📧 Email: musabibnanzer@gmail.com  
+⭐ *Pinned repos below showcase my work — take a look!*
