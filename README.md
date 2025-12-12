@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** C · C++ · Java  . Python
+**Languages:** C · C++ · Java . Python **
 **Frontend:** HTML · CSS · JavaScript (DOM)    
 **Database:** MySQL · SQLite  
 **Tools:** Git · GitHub · VS Code
