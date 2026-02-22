@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 **Languages:** C · C++ . Python
-**Frontend:** HTML · CSS · JavaScript (DOM)    
+**Frontend:** HTML · CSS · JavaScript (DOM) . REACT    
 **Database:** MySQL · SQLite  
 **Tools:** Git · GitHub · VS Code
 ---
