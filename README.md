@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 What I'm Working On
-- Building projects using **HTML, CSS, JS**  
+- Building projects using **HTML, CSS, JS, REACT**  
 - Learning **Django** for backend  
 - Exploring **DSA** 
 
